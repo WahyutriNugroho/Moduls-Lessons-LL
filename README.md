@@ -31,4 +31,4 @@ Modul Lessons adalah modul yang menangani proses yang berkaitan dengan materi da
   b.Informasi Deskripsi
   c.Informasi Batch
   d.Informasi Nama Materi Pembelajaran
-  e.Download File
+  e.Download File 
