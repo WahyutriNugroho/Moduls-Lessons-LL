@@ -1,6 +1,6 @@
 Modul Lessons adalah modul yang menangani proses yang berkaitan dengan materi dalam aplikasi Lumintu Learning. Modul ini digunakan oleh Admin dan Mentor. Fitur dari modul ini antara lain :
 
-1.Tambah Topik Pembelajaran, digunakan untuk menambahkan data : 
+1.Tambah Topik Pembelajaran, digunakan untuk menambahkan data : <br>
 a.Nama Topik Pembelajaran 
 b.Deskripsi 
 c.Bobot Penilaian 
